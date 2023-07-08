@@ -12,6 +12,9 @@ public class Loginpage {
 	
 	}
 	
-	
-	
+	public void homepage(){
+
+
+	}
+		
 }
