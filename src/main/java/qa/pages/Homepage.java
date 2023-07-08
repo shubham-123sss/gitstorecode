@@ -10,5 +10,7 @@ public class Homepage {
 	this.driver=driver;
 		
 	}
-	
-}
+	public void home(){
+
+	}
+	}
