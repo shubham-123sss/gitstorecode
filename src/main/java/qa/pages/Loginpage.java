@@ -12,9 +12,9 @@ public class Loginpage {
 	
 	}
 	
-	public void homepage(){
+	public void Loginpagetest(){
 
-
+System.out.println("login page pethods");
 	}
 		
 }

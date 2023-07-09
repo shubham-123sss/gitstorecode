@@ -11,4 +11,10 @@ public class Homepage {
 		
 	}
 	
+	public void hoometest() {
+	
+	
+	
+	}
+	
 }
