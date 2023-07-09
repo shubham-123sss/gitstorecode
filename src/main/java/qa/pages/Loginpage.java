@@ -12,9 +12,12 @@ public class Loginpage {
 	
 	}
 	
+<<<<<<< HEAD
 	public void Loginpagetest(){
 
 System.out.println("login page pethods");
 	}
+=======
+>>>>>>> ca332645a9485adea68e3833d1c8d092e5b151a0
 		
 }
